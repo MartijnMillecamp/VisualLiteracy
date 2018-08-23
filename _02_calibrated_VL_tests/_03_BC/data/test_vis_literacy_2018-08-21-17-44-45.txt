@@ -1,0 +1,105 @@
+test,2018-08-21-17-44-45,item ID: 5
+repetition ID: 1
+Score: 1
+repetition ID: 3
+Score: 1
+repetition ID: 4
+Score: 0
+repetition ID: 2
+Score: 0
+repetition ID: 6
+Score: 1
+repetition ID: 5
+Score: 1
+item ID: 6
+repetition ID: 1
+Score: 0
+repetition ID: 4
+Score: 1
+repetition ID: 5
+Score: 1
+repetition ID: 6
+Score: 0
+repetition ID: 3
+Score: 1
+repetition ID: 2
+Score: 0
+item ID: 1
+repetition ID: 1
+Score: 0
+repetition ID: 4
+Score: 0
+repetition ID: 5
+Score: 1
+repetition ID: 2
+Score: 0
+repetition ID: 6
+Score: 0
+repetition ID: 3
+Score: 0
+item ID: 3
+repetition ID: 1
+Score: 0
+repetition ID: 6
+Score: 0
+repetition ID: 2
+Score: 0
+repetition ID: 4
+Score: 0
+repetition ID: 5
+Score: 0
+repetition ID: 3
+Score: 0
+item ID: 4
+repetition ID: 1
+Score: 0
+repetition ID: 3
+Score: 0
+repetition ID: 4
+Score: 0
+repetition ID: 2
+Score: 1
+repetition ID: 6
+Score: 0
+repetition ID: 5
+Score: 0
+item ID: 8
+repetition ID: 1
+Score: 0
+repetition ID: 6
+Score: 0
+repetition ID: 2
+Score: 0
+repetition ID: 3
+Score: 0
+repetition ID: 5
+Score: 0
+repetition ID: 4
+Score: 0
+item ID: 7
+repetition ID: 1
+Score: 0
+repetition ID: 4
+Score: 0
+repetition ID: 3
+Score: 0
+repetition ID: 6
+Score: 1
+repetition ID: 2
+Score: 1
+repetition ID: 5
+Score: 0
+item ID: 2
+repetition ID: 1
+Score: 0
+repetition ID: 5
+Score: 0
+repetition ID: 2
+Score: 1
+repetition ID: 4
+Score: 0
+repetition ID: 6
+Score: 0
+repetition ID: 3
+Score: 0
+;
